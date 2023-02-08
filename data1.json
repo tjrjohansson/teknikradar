@@ -1,0 +1,28 @@
+{
+      "name": "Go",
+      "ring": "trial",
+      "quadrant": "Quad1",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "JavaScript",
+      "ring": "adopt",
+      "quadrant": "Quad2",
+      "isNew": false,
+      "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
+    },
+    {
+      "name": "Java",
+      "ring": "assess",
+      "quadrant": "Quad3",
+      "isNew": false,
+      "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
+    },
+    {
+      "name": "C++",
+      "ring": "hold",
+      "quadrant": "Quad4",
+      "isNew": false,
+      "description": "This is another simple description"
+    }
