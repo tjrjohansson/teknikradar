@@ -5,14 +5,14 @@
   "blips": [
     {
       "name": "Go",
-      "quadrant": "Quad2",
+      "quadrant": "Quad1",
       "ring": "trial",
       "isNew": true,
       "description": "This is a simple description"
     },
     {
       "name": "JavaScript",
-      "quadrant": "Quad1",
+      "quadrant": "Quad2",
       "ring": "adopt",
       "isNew": false,
       "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
