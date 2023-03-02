@@ -26,5 +26,12 @@
     "quadrant": "mjukvara",
     "isNew": "FALSE",
     "description": "description"
-  }
+  },
+   {
+    "name": "Babel",
+    "ring": "adopt",
+    "quadrant": "verktyg",
+    "isNew": "TRUE",
+    "description": "test"
+  },
 ]
