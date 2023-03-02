@@ -40,5 +40,11 @@
     "quadrant": "mjukvara",
     "isNew": "TRUE",
     "description": "Digital whiteboard"
-  }
+  },
+   {
+    "name": "Padlet",
+    "ring": "utvärdera",
+    "quadrant": "mjukvara",
+    "isNew": "TRUE",
+    "description": "test"
 ]
