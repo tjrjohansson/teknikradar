@@ -2,28 +2,28 @@
   {
     "name": "Babel",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "verktyg",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Apache Kafka",
     "ring": "trial",
-    "quadrant": "languages & frameworks",
+    "quadrant": "licenser",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "Android-x86",
     "ring": "assess",
-    "quadrant": "platforms",
+    "quadrant": "hårdvara",
     "isNew": "TRUE",
     "description": "description"
   },
   {
     "name": "GrapCloud lift and shifthQL",
     "ring": "hold",
-    "quadrant": "techniques",
+    "quadrant": "mjukvara",
     "isNew": "FALSE",
     "description": "description"
   }
