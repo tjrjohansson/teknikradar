@@ -1,20 +1,20 @@
 [
   {
-    "name": "Babel",
+    "name": "NSX Intelligence",
     "ring": "adopt",
     "quadrant": "verktyg",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "Apache Kafka",
+    "name": "Graphpad",
     "ring": "trial",
     "quadrant": "licenser",
     "isNew": "FALSE",
     "description": "test"
   },
   {
-    "name": "Android-x86",
+    "name": "Cisco",
     "ring": "assess",
     "quadrant": "hårdvara",
     "isNew": "TRUE",
@@ -28,7 +28,7 @@
     "description": "description"
   },
    {
-    "name": "Babel",
+    "name": "Padlet",
     "ring": "adopt",
     "quadrant": "mjukvara",
     "isNew": "TRUE",
