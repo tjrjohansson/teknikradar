@@ -1,28 +1,28 @@
 [
   {
     "name": "NSX Intelligence",
-    "ring": "adopt",
+    "ring": "inför",
     "quadrant": "verktyg",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Graphpad",
-    "ring": "trial",
+    "ring": "prov",
     "quadrant": "licenser",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "Cisco",
-    "ring": "assess",
+    "ring": "utvärdera",
     "quadrant": "hårdvara",
     "isNew": "TRUE",
     "description": "description"
   },
   {
     "name": "Miro",
-    "ring": "assess",
+    "ring": "utvärdera",
     "quadrant": "mjukvara",
     "isNew": "TRUE",
     "description": "description"
@@ -39,6 +39,6 @@
     "ring": "avveckla",
     "quadrant": "mjukvara",
     "isNew": "TRUE",
-    "description": "description"
+    "description": "Digital whiteboard"
   }
 ]
